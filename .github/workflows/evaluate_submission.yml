@@ -40,7 +40,7 @@ jobs:
       - name: Checkout private repo
         uses: actions/checkout@v4
         with:
-          repository: Tasneem-Selim-Researcher/GNN_CoRA_Competition_private
+          repository: tasneem-mselim/GNN_CoRA_Competition_private
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: private_data
 
