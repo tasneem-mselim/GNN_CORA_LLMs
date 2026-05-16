@@ -1,4 +1,5 @@
 Team,Accuracy
+AiIkram_claude opus 4.6,81.6
 tasneem-m-selim_qwen2.5-coder:7b,78.2
 TugaAhmed_human,74.2
 gururgg_human,70.89999999999999
@@ -15,5 +16,6 @@ idrees11_human,60.4
 NoorMajdoub_human,57.3
 El-Ikram_human,36.9
 SanaeZR_human,36.8
+SanaeZR,32.800000000000004
 KEMPEGUY_human,15.8
 hadilaff_human,15.3
