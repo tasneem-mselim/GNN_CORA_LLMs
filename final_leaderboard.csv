@@ -1,7 +1,6 @@
 Team,Accuracy
 AiIkram_claude opus 4.6,81.6
-tasneem-m-selim,80.0
-tasneem-m-selim_qwen2.5-coder:7b,78.2
+tasneem-_qwen2.5-coder:14b,80.0
 hadilaff_LLM_claudesonnet,76.2
 TugaAhmed_human,74.2
 llm_gpt5_4_codex,74.0
